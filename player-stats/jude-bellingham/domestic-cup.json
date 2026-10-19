@@ -1,0 +1,65 @@
+{
+    "statistics": {
+        "whoScoredRating": 6.4,
+        "rating": 6.4,
+        "totalRating": 6.4,
+        "countRating": 1,
+        "goals": 0,
+        "assists": 0,
+        "yellowCards": 1,
+        "redCards": 0,
+        "minutesPlayed": 13,
+        "penaltiesTaken": 0,
+        "penaltyGoals": 0,
+        "ownGoals": 0,
+        "matchesStarted": 0,
+        "goalsConceded": 2,
+        "yellowRedCards": 0,
+        "id": 2543035,
+        "type": "overall",
+        "appearances": 1,
+        "statisticsType": {
+            "sportSlug": "football",
+            "statisticsType": "player"
+        }
+    },
+    "seasonRatingBreakdown": {
+        "passValue": -0.06,
+        "dribbleValue": 0.05,
+        "defensiveValue": -0.16
+    },
+    "competition": {
+        "name": "Copa del Rey"
+    },
+    "team": {
+        "name": "Real Madrid",
+        "slug": "real-madrid",
+        "shortName": "Real Madrid",
+        "gender": "M",
+        "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+        },
+        "userCount": 7793304,
+        "nameCode": "RMA",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2829,
+        "teamColors": {
+            "primary": "#ffffff",
+            "secondary": "#004996",
+            "text": "#004996"
+        },
+        "fieldTranslations": {
+            "nameTranslation": {
+                "ar": "\u0631\u064a\u0627\u0644 \u0645\u062f\u0631\u064a\u062f",
+                "bn": "\u09b0\u09bf\u09af\u09bc\u09be\u09b2 \u09ae\u09be\u09a6\u09cd\u09b0\u09bf\u09a6",
+                "hi": "\u0930\u093f\u092f\u0932 \u092e\u0948\u0921\u094d\u0930\u093f\u0921",
+                "ru": "\u0420\u0435\u0430\u043b \u041c\u0430\u0434\u0440\u0438\u0434"
+            },
+            "shortNameTranslation": {}
+        }
+    }
+}

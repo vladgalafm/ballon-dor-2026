@@ -1,0 +1,68 @@
+{
+    "statistics": {
+        "whoScoredRating": 7.94,
+        "rating": 7.94,
+        "totalRating": 39.7,
+        "countRating": 5,
+        "goals": 2,
+        "assists": 2,
+        "yellowCards": 1,
+        "redCards": 0,
+        "minutesPlayed": 450,
+        "penaltiesTaken": 0,
+        "penaltyGoals": 0,
+        "ownGoals": 0,
+        "cleanSheet": 3,
+        "matchesStarted": 5,
+        "goalsConceded": 5,
+        "scoringFrequency": 225,
+        "yellowRedCards": 0,
+        "id": 2537473,
+        "type": "overall",
+        "appearances": 5,
+        "statisticsType": {
+            "sportSlug": "football",
+            "statisticsType": "player"
+        }
+    },
+    "seasonRatingBreakdown": {
+        "shotValue": 0.07,
+        "passValue": 0.37,
+        "dribbleValue": 0.52,
+        "defensiveValue": -0.12
+    },
+    "competition": {
+        "name": "Copa del Rey"
+    },
+    "team": {
+        "name": "FC Barcelona",
+        "slug": "barcelona",
+        "shortName": "Barcelona",
+        "gender": "M",
+        "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+        },
+        "userCount": 7556234,
+        "nameCode": "BAR",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2817,
+        "teamColors": {
+            "primary": "#154284",
+            "secondary": "#9d1009",
+            "text": "#9d1009"
+        },
+        "fieldTranslations": {
+            "nameTranslation": {
+                "ar": "\u0628\u0631\u0634\u0644\u0648\u0646\u0629",
+                "bn": "\u09ac\u09be\u09b0\u09cd\u09b8\u09c7\u09b2\u09cb\u09a8\u09be",
+                "hi": "\u092c\u093e\u0930\u094d\u0938\u093f\u0932\u094b\u0928\u093e",
+                "ru": "\u0411\u0430\u0440\u0441\u0435\u043b\u043e\u043d\u0430"
+            },
+            "shortNameTranslation": {}
+        }
+    }
+}

@@ -1,0 +1,71 @@
+{
+    "statistics": {
+        "whoScoredRating": 6.9,
+        "rating": 6.9,
+        "totalRating": 41.4,
+        "countRating": 6,
+        "goals": 3,
+        "assists": 0,
+        "goalsAssistsSum": 3,
+        "yellowCards": 2,
+        "redCards": 0,
+        "minutesPlayed": 479,
+        "penaltiesTaken": 3,
+        "penaltyGoals": 2,
+        "ownGoals": 1,
+        "cleanSheet": 2,
+        "matchesStarted": 5,
+        "penaltyConversion": 66.666666666667,
+        "goalsConceded": 5,
+        "scoringFrequency": 159.66666666667,
+        "yellowRedCards": 0,
+        "id": 2418244,
+        "goalInvolvements": 3,
+        "type": "overall",
+        "appearances": 7,
+        "statisticsType": {
+            "sportSlug": "football",
+            "statisticsType": "player"
+        }
+    },
+    "seasonRatingBreakdown": {
+        "shotValue": -0.04,
+        "passValue": 0.14,
+        "dribbleValue": 0.14,
+        "defensiveValue": -0.04
+    },
+    "competition": {
+        "name": "Copa del Rey"
+    },
+    "team": {
+        "name": "Real Sociedad",
+        "slug": "real-sociedad",
+        "shortName": "Real Sociedad",
+        "gender": "M",
+        "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+        },
+        "userCount": 342298,
+        "nameCode": "RSO",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 2824,
+        "teamColors": {
+            "primary": "#ffffff",
+            "secondary": "#0077c7",
+            "text": "#0077c7"
+        },
+        "fieldTranslations": {
+            "nameTranslation": {
+                "ar": "\u0631\u064a\u0627\u0644 \u0633\u0648\u0633\u064a\u062f\u0627\u062f",
+                "bn": "\u09b0\u09bf\u09af\u09bc\u09be\u09b2 \u09b8\u09cb\u09b8\u09bf\u09af\u09bc\u09c7\u09a6\u09be\u09a6",
+                "hi": "\u0930\u093f\u092f\u0932 \u0938\u094b\u0938\u093f\u092f\u0926\u093e\u0926",
+                "ru": "\u0420\u0435\u0430\u043b \u0421\u043e\u0441\u044c\u0435\u0434\u0430\u0434"
+            },
+            "shortNameTranslation": {}
+        }
+    }
+}
